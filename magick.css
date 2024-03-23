@@ -58,6 +58,9 @@ html {
     3) Use the 'Averia Serif Libre' font for the body text.
 */
 body {
+    background-image: url('cover.jpg');
+    background-size: cover;
+    background-attachment: fixed;
     font-size: 1.8rem; /* 1 */
     font-weight: 400; /* 1 */
     background-color: var(--bg); /* 2 */
