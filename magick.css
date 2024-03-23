@@ -99,8 +99,10 @@ main {
 header,
 section,
 footer {
-    margin: 0.7rem;
-    padding: 0.7rem;
+        margin-top: 0.2rem;
+        margin-bottom: 0.2rem;
+    /* margin: 0.7rem; */
+    /* padding: 0.7rem; */
 }
 
 /* On mobile devices, a smaller margin looks more fitting due to the smaller view. */
