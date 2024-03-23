@@ -61,6 +61,7 @@ body {
     background-image: url('cover.jpg');
     background-size: cover;
     background-attachment: fixed;
+    filter: grayscale(100%);
     font-size: 1.8rem; /* 1 */
     font-weight: 400; /* 1 */
     background-color: var(--bg); /* 2 */
